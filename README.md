@@ -1,4 +1,4 @@
-# SSAFY10th 구미2반 D203 특화 프로젝트
+# FinFarm 프로젝트
 
 ## 🤑 MoneyGang
 
